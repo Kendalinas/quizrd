@@ -1,0 +1,92 @@
+[{
+  "question": "One early example of a machine that could reproduce sets of instructions is the Jacquard Loom, invented by ____________ in 1804.\n",
+  "answer": "Joseph Marie Jacquard"
+}, {
+  "question": "One early example of a machine that could reproduce sets of instructions is the Jacquard Loom, invented by ____________ in 1804.\n",
+  "choices": ["Joseph Marie Jacquard", "Ada Lovelace", "Vannevar Bush", "Charles Babbage", "Lovelace"],
+  "answer": "Joseph Marie Jacquard"
+}, {
+  "question": "Later in the 19th Century, ____________ came up with the idea of the Difference Engine, which was a calculation device specifically designed to solve polynomial equations.",
+  "answer": "Charles Babbage"
+}, {
+  "question": "Later in the 19th Century, ____________ came up with the idea of the Difference Engine, which was a calculation device specifically designed to solve polynomial equations.",
+  "choices": ["Charles Babbage", "Ada Lovelace", "Tim Berners-Lee", "Joseph Marie Jacquard", "Lovelace"],
+  "answer": "Charles Babbage"
+}, {
+  "question": "Although he was never able to build an operational version of the machine, he worked with ____________ to describe different algorithms and software methods of how the machine could theoretically work.",
+  "answer": "Ada Lovelace"
+}, {
+  "question": "Although he was never able to build an operational version of the machine, he worked with ____________ to describe different algorithms and software methods of how the machine could theoretically work.",
+  "choices": ["Ada Lovelace", "Charles Babbage", "ENIAC", "Bush", "Joseph Marie Jacquard"],
+  "answer": "Ada Lovelace"
+}, {
+  "question": "Although he was never able to build an operational version of the machine, he worked with Ada ____________ to describe different algorithms and software methods of how the machine could theoretically work.",
+  "answer": "Lovelace"
+}, {
+  "question": "Although he was never able to build an operational version of the machine, he worked with Ada ____________ to describe different algorithms and software methods of how the machine could theoretically work.",
+  "choices": ["Lovelace", "Tim Berners-Lee", "Charles Babbage", "Ada Lovelace", "Vannevar Bush"],
+  "answer": "Lovelace"
+}, {
+  "question": "____________ is credited with describing the first software algorithm thanks to her work with Babbage.\n",
+  "answer": "Lovelace"
+}, {
+  "question": "____________ is credited with describing the first software algorithm thanks to her work with Babbage.\n",
+  "choices": ["Lovelace", "Bush", "ENIAC", "Tim Berners-Lee", "Ada Lovelace"],
+  "answer": "Lovelace"
+}, {
+  "question": "Computers like ____________, pictured above, were used to perform complex calculations at speeds that had never before been achievable.",
+  "answer": "ENIAC"
+}, {
+  "question": "Computers like ____________, pictured above, were used to perform complex calculations at speeds that had never before been achievable.",
+  "choices": ["ENIAC", "Joseph Marie Jacquard", "Tim Berners-Lee", "Vannevar Bush", "Charles Babbage"],
+  "answer": "ENIAC"
+}, {
+  "question": "____________ was \"programmed\" by hard wiring specific circuits in the machine.",
+  "answer": "ENIAC"
+}, {
+  "question": "____________ was \"programmed\" by hard wiring specific circuits in the machine.",
+  "choices": ["ENIAC", "Vannevar Bush", "Lovelace", "Charles Babbage", "Tim Berners-Lee"],
+  "answer": "ENIAC"
+}, {
+  "question": "____________, head of the Office of Scientific Research and Development for the US Government through the 1940s, had come up with the idea of the Memex in the 1930s.",
+  "answer": "Vannevar Bush"
+}, {
+  "question": "____________, head of the Office of Scientific Research and Development for the US Government through the 1940s, had come up with the idea of the Memex in the 1930s.",
+  "choices": ["Vannevar Bush", "Bush", "Tim Berners-Lee", "Joseph Marie Jacquard", "ENIAC"],
+  "answer": "Vannevar Bush"
+}, {
+  "question": "Vannevar ____________, head of the Office of Scientific Research and Development for the US Government through the 1940s, had come up with the idea of the Memex in the 1930s.",
+  "answer": "Bush"
+}, {
+  "question": "Vannevar ____________, head of the Office of Scientific Research and Development for the US Government through the 1940s, had come up with the idea of the Memex in the 1930s.",
+  "choices": ["Bush", "Tim Berners-Lee", "Lovelace", "Charles Babbage", "Vannevar Bush"],
+  "answer": "Bush"
+}, {
+  "question": "In the essay, ____________ describes a desk that can access all of the information in the world.",
+  "answer": "Bush"
+}, {
+  "question": "In the essay, ____________ describes a desk that can access all of the information in the world.",
+  "choices": ["Bush", "Charles Babbage", "Vannevar Bush", "Lovelace", "Joseph Marie Jacquard"],
+  "answer": "Bush"
+}, {
+  "question": "____________ even imagines a method of linking documents and describing relationships between discrete pieces of information.",
+  "answer": "Bush"
+}, {
+  "question": "____________ even imagines a method of linking documents and describing relationships between discrete pieces of information.",
+  "choices": ["Bush", "Tim Berners-Lee", "Charles Babbage", "Joseph Marie Jacquard", "ENIAC"],
+  "answer": "Bush"
+}, {
+  "question": "Creators of technologies like Hypertext and the Web were inspired by ____________'s writing and worked to bring their own versions of his ideas to fruition.\n",
+  "answer": "Bush"
+}, {
+  "question": "Creators of technologies like Hypertext and the Web were inspired by ____________'s writing and worked to bring their own versions of his ideas to fruition.\n",
+  "choices": ["Bush", "Vannevar Bush", "Joseph Marie Jacquard", "ENIAC", "Ada Lovelace"],
+  "answer": "Bush"
+}, {
+  "question": "____________ was a researcher at CERN when he came up with the idea of the World Wide Web.",
+  "answer": "Tim Berners-Lee"
+}, {
+  "question": "____________ was a researcher at CERN when he came up with the idea of the World Wide Web.",
+  "choices": ["Tim Berners-Lee", "ENIAC", "Lovelace", "Vannevar Bush", "Charles Babbage"],
+  "answer": "Tim Berners-Lee"
+}]
